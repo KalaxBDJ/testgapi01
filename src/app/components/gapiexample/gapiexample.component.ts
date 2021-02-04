@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import {}
+import {SocialLoginModule , SocialAuthServiceConfig , GoogleLoginProvider} from 'angularx-social-login';
 
 @Component({
   selector: 'gapiexample',
