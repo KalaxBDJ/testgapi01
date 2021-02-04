@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kalaxMusic"
+    }
+  },
+  "defaultProject": "kalaxMusic",
+  "cli": {
+    "analytics": false
+  }
 }
